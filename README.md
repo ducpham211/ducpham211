@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phạm Viết Đức</h1>
-<h3 align="center">Passionate Web Developer & Computer Science Student</h3>
+<h3 align="center">Passionate Web Developer Student</h3>
 <p align="center">
 📍 Ho Chi Minh City, Vietnam &nbsp;&nbsp;|&nbsp;&nbsp;
 📧 phamvietduc@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;
