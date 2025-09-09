@@ -25,11 +25,10 @@ _Bachelor of Computer Science_
 ### 💻 Featured Projects
 
 - 🛒 **E-Commerce Platform**  
-  [🔗 Live Demo](https://social-media-real-time-responsive-k.vercel.app/) | [🔗 GitHub](https://github.com/ducpham211/ecommerce-platform)  
+  [🔗 Live Demo](https://social-media-real-time-responsive-k.vercel.app/)
   _Full-stack e-commerce app with payment integration, admin dashboard, and real-time notifications_
 - 💬 **Real-time Chat Application**  
-  [🔗 Live Demo](https://ducpham211.github.io/Chatbot-/) | [🔗 GitHub](https://github.com/ducpham211/Chatbot-)  
-  _Real-time messaging app with AI chatbot integration using Socket.io and OpenAI API_
+  [🔗 Live Demo](https://ducpham211.github.io/Chatbot-/)
 
 ### 🛠 Technical Skills
 
