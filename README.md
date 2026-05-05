@@ -17,9 +17,9 @@ With a deep passion for building robust server-side architectures, designing sca
 
 > **Backend Developer Intern** | **HD Bank** | **Jan 2026 – May 2026**
 >
-> **-** Mastered the backend development lifecycle from Core Java to Spring Boot, focusing on database architecture, secure API design, and complex business logic implementation. Acquired practical experience in professional workflows and project management, culminating in the
+> **-** Mastered the backend development lifecycle from Core Java to Spring Boot, focusing on database architecture, secure API design, and complex business logic implementation.
 >
-> **-** independent development of a full-scale capstone project.
+> **-** Acquired practical experience in professional workflows and project management, culminating in the independent development of a full-scale capstone project.
 
 ## 🎓 ⟩ Education
 
