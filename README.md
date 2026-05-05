@@ -10,7 +10,7 @@
 
 ## 🦞 ⟩ About Me
 
-> I'm a Information Technology student at **University of Information Technology - VNU-HCM** (2023–2027), specializing in **Backend Development & Software Engineering**.
+> I'm a Information Technology student at **University of Information Technology - VNU.HCM**, specializing in **Backend Development & Software Engineering**.
 >
 > With a deep passion for building robust server-side architectures, designing scalable APIs, and optimizing databases, I'm constantly learning new technologies to solve complex problems. My workflow focuses on performance, security, and clean code.
 
