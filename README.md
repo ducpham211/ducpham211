@@ -24,7 +24,7 @@ With a deep passion for building robust server-side architectures, designing sca
 ## 🎓 ⟩ Education
 
 > **University of Information Technology – VNU-HCM**  
-> _Bachelor of Computer Science_  
+> _Bachelor of Infomation Technology_  
 > **2023 – Now**  
 > GPA: **8.4/10** (≈ **3.5/4.0**)
 
