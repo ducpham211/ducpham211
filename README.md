@@ -1,10 +1,5 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=ff4d4d&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Phạm+Viết+Đức;Passionate+Backend+Developer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=ff4d4d&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Phạm+Viết+Đức;Passionate+Backend+Developer" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=ff4d4d&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Phạm+Viết+Đức;Passionate+Backend+Developer" alt="Typing SVG" />
-  </picture>
-</div>
+<h1 align="center">Hi 👋, I'm Phạm Viết Đức</h1>
+<h3 align="center">Passionate Backend Developer</h3>
 
 <p align="center">
   <i>The developer that actually builds things. Robust backend systems, real-time applications, and seamless APIs.</i><br/>
@@ -98,29 +93,9 @@ With a deep passion for building robust server-side architectures, designing sca
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ducpham211&layout=compact&theme=dark&bg_color=0a0b14&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&border_color=30363d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ducpham211&layout=compact&theme=default&bg_color=ffffff&title_color=ff4d4d&text_color=24292f&icon_color=ff4d4d&border_color=d0d7de" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducpham211&layout=compact&theme=default&bg_color=ffffff&title_color=ff4d4d&text_color=24292f&icon_color=ff4d4d&border_color=d0d7de" alt="Top Languages" />
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ducpham211&show_icons=true&theme=dark&bg_color=0a0b14&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&border_color=30363d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ducpham211&show_icons=true&theme=default&bg_color=ffffff&title_color=ff4d4d&text_color=24292f&icon_color=ff4d4d&border_color=d0d7de" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ducpham211&show_icons=true&theme=default&bg_color=ffffff&title_color=ff4d4d&text_color=24292f&icon_color=ff4d4d&border_color=d0d7de" alt="GitHub Stats" />
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&theme=dark&background=0a0b14&ring=ff4d4d&fire=ff4d4d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&theme=default&background=ffffff&ring=ff4d4d&fire=ff4d4d&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a&border=d0d7de" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&theme=default&background=ffffff&ring=ff4d4d&fire=ff4d4d&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a&border=d0d7de" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&amp;theme=dark&amp;background=0a0b14&amp;ring=ff4d4d&amp;fire=ff4d4d&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9&amp;border=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&amp;theme=default&amp;background=ffffff&amp;ring=ff4d4d&amp;fire=ff4d4d&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=57606a&amp;sideLabels=57606a&amp;dates=57606a&amp;border=d0d7de" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&amp;theme=default&amp;background=ffffff&amp;ring=ff4d4d&amp;fire=ff4d4d&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=57606a&amp;sideLabels=57606a&amp;dates=57606a&amp;border=d0d7de" alt="GitHub Streak" />
   </picture>
 </div>
 
