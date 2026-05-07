@@ -87,10 +87,15 @@
 ## 🛠 ⟩ Technical Skills
 
 > **Backend** : Java, Spring Boot, Spring AOP, Spring Security
+
 > **Node.js** : Express.js
+
 > **Database** : PostgreSQL, Redis (Caching, Distributed Lock)
+
 > **Tools & Infrastructure** : Git
+
 > **Testing** : JUnit 5, Mockito, Spring Boot Test
+
 > **Protocols & Patterns** : RESTful API, WebSocket , JWT
 
 ## ⟩ GitHub Analytics
