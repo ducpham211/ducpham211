@@ -88,7 +88,7 @@
 
 > **Backend** : Java, Spring Boot, Spring AOP, Spring Security, Node.js, Express.js
 >
-> **Database** : PostgreSQL, Redis (Caching, Distributed Lock)
+> **Database** : PostgreSQL, Redis (Caching, Distributed Lock), Flyway
 >
 > **Tools & Infrastructure** : Git
 >
