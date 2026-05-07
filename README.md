@@ -18,9 +18,11 @@
 
 > **Backend Developer Intern** | **HD Bank** | **Jan 2026 – May 2026**
 >
-> **-** Mastered the backend development lifecycle from Core Java to Spring Boot, focusing on database architecture, secure API design, and complex business logic implementation.
+> **-** Completed an intensive backend engineering program covering Spring Boot, Spring Data JPA, Spring Security, RESTful API design, and JWT-based authentication.
 >
-> **-** Acquired practical experience in professional workflows and project management, culminating in the independent development of a full-scale capstone project.
+> **-** Applied Clean Code principles and SOLID design in a structured development workflow, including requirements analysis, database design, and API documentation with Swagger.
+>
+> **-** Independently developed a full-scale capstone project, implementing layered architecture (Controller–Service–Repository), global exception handling, role-based access control, and pagination.
 
 ## 🎓 ⟩ Education
 
