@@ -22,7 +22,7 @@
 >
 > **-** Applied Clean Code principles and SOLID design in a structured development workflow, including requirements analysis, database design, and API documentation with Swagger.
 >
-> **-** Independently developed a full-scale capstone project, implementing layered architecture (Controller–Service–Repository), global exception handling, role-based access control, and pagination.
+> **-** Independently developed a full-scale capstone transaction system, implementing layered architecture (Controller–Service–Repository), global exception handling, role-based access control, and pagination.
 
 ## 🎓 ⟩ Education
 
