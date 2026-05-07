@@ -16,7 +16,7 @@
 
 ## 💼 ⟩ Experience
 
-> **Backend Developer Intern** | **HD Bank** | **Jan 2026 – May 2026**
+> **Backend Developer Intern** | **HD Bank** | **November 2025 – May 2026**
 >
 > **-** Completed an intensive backend engineering program covering Spring Boot, Spring Data JPA, Spring Security, RESTful API design, and JWT-based authentication.
 >
