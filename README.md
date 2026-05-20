@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pham Viet Duc</h1>
-<h3 align="center">Passionate Backend Developer</h3>
+<h3 align="center">Passionate Software Engineer</h3>
 
 <p align="center">
   <i>The developer that actually builds things. Robust backend systems, real-time applications, and seamless APIs.</i><br/>
