@@ -34,7 +34,7 @@
 
 ## 💼 ⟩ Experience
 
-> **Software Engineer** | **ZiGexN Ventura** | **05/2026 – Present**
+> **Software Engineer** | **ZIGExN VeNtura** | **05/2026 – Present**
 >
 > **-** Programmed and developed backend systems using Ruby and Ruby on Rails.
 >
