@@ -6,6 +6,24 @@
   📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 📧 ducp07052@gmail.com &nbsp;|&nbsp; 📞 (+84) 398 399 540
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-v17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-v3.x-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-v6.x-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Ruby-Language-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-v7.x-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/Node.js-v20-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React_JS-v18.x-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React JS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-v15-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-v7.x-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Flyway-Migration-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/JUnit_5-Testing-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-Mocking-785ef0?style=flat-square&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</p>
+
 ---
 
 ## 🦞 ⟩ About Me
@@ -16,6 +34,16 @@
 
 ## 💼 ⟩ Experience
 
+> **Software Engineer** | **ZiGexN Ventura** | **05/2026 – Present**
+>
+> **-** Programmed and developed backend systems using Ruby and Ruby on Rails.
+>
+> **-** Participated in maintaining and scaling large-scale projects transferred from the parent company in Japan.
+>
+> **-** Collaborated with cross-functional teams to deliver reliable features and optimize application performance.
+>
+> ---
+>
 > **Backend Developer Intern** | **HD Bank** | **11/2025 – 05/2026**
 >
 > **-** Completed an intensive backend engineering program covering Spring Boot, Spring Data JPA, Spring Security, RESTful API design, and JWT-based authentication.
@@ -24,86 +52,36 @@
 >
 > **-** Independently developed a full-scale capstone transaction system, implementing layered architecture (Controller–Service–Repository), global exception handling, role-based access control, and pagination.
 
-## 🎓 ⟩ Education
+## 🎓 ⟩ Education & Achievements
 
-> **University of Information Technology – VNU-HCM**  
-> _Bachelor of Infomation Technology_  
-> **2023 – Now**  
-> GPA: **8.4/10** (≈ **3.5/4.0**)
-
-## 💻 ⟩ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⚽ Football Master Manager</h3>
-      <p>A comprehensive management system for football teams.</p>
-      <a href="https://github.com/ducpham211/football-master-manager"><code>&lt; View Repository /&gt;</code></a>
-    </td>
-    <td width="50%">
-      <h3>🏟️ Pitch Management System</h3>
-      <p>System for booking and managing football pitches.</p>
-      <a href="https://github.com/ducpham211/pitch-management-system"><code>&lt; View Repository /&gt;</code></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎓 SE303 Final Project</h3>
-      <p>Academic project showcasing software engineering principles.</p>
-      <a href="https://github.com/ducpham211/SE303-final-project"><code>&lt; View Repository /&gt;</code></a>
-    </td>
-    <td width="50%">
-      <h3>📝 Auto Audit Logging</h3>
-      <p>Spring Boot starter for automated audit logging.</p>
-      <a href="https://github.com/ducpham211/auto-audit-logging"><code>&lt; View Repository /&gt;</code></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>👨‍💻 Portfolio</h3>
-      <p>My personal portfolio showcasing my journey and skills.</p>
-      <a href="https://portfolio-pi-virid-92.vercel.app"><code>&lt; Live Demo /&gt;</code></a> | <a href="https://github.com/ducpham211/Portfolio"><code>&lt; Source /&gt;</code></a>
-    </td>
-    <td width="50%">
-      <h3>📰 Web3 Bulletin Hybrid</h3>
-      <p>A hybrid bulletin board integrated with Web3 technologies.</p>
-      <a href="https://github.com/ducpham211/web3-bulletin-hybrid"><code>&lt; View Repository /&gt;</code></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏨 Booking Hotel Platform</h3>
-      <p>A platform for browsing and booking hotels seamlessly.</p>
-      <a href="https://booking-hotel-platform.vercel.app"><code>&lt; Live Demo /&gt;</code></a> | <a href="https://github.com/ducpham211/booking-hotel-platform"><code>&lt; Source /&gt;</code></a>
-    </td>
-    <td width="50%">
-      <h3>🏅 SportGear E-commerce Platform</h3>
-      <p>E-commerce platform dedicated to sports equipment.</p>
-      <a href="https://github.com/ducpham211/SportGear-E-commerce-Platform"><code>&lt; View Repository /&gt;</code></a>
-    </td>
-  </tr>
-</table>
-
-## 🛠 ⟩ Technical Skills
-
-> **Backend** : Java, Spring Boot, Spring AOP, Spring Security, Node.js, Express.js
+> **University of Information Technology – VNU-HCM** | **09/2023 – Present**  
+> _Bachelor of Infomation Technology_
 >
-> **Database** : PostgreSQL, Redis (Caching, Distributed Lock), Flyway
+> **GPA: 3.5**
 >
-> **Tools & Infrastructure** : Git
->
-> **Testing** : JUnit 5, Mockito, Spring Boot Test
->
-> **Protocols & Patterns** : RESTful API, WebSocket , JWT
+> **IELTS: 6.0**
 
 ## ⟩ GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&amp;theme=dark&amp;background=0a0b14&amp;ring=ff4d4d&amp;fire=ff4d4d&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9&amp;border=30363d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&amp;theme=default&amp;background=ffffff&amp;ring=ff4d4d&amp;fire=ff4d4d&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=57606a&amp;sideLabels=57606a&amp;dates=57606a&amp;border=d0d7de" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducpham211&amp;theme=default&amp;background=ffffff&amp;ring=ff4d4d&amp;fire=ff4d4d&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=57606a&amp;sideLabels=57606a&amp;dates=57606a&amp;border=d0d7de" alt="GitHub Streak" />
-  </picture>
+  <table>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/ducpham211">
+          <img src="https://github-stats-extended.vercel.app/api?username=ducpham211&show_icons=true&theme=tokyonight&include_all_commits=true" alt="ducpham211's GitHub Stats" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/ducpham211">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ducpham211&layout=compact&theme=tokyonight" alt="ducpham211's Most Used Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <a href="https://github.com/ducpham211">
+    <img src="https://streak-stats.demolab.com/?user=ducpham211&theme=tokyonight" alt="ducpham211's GitHub Streak" />
+  </a>
 </div>
 
 ---
